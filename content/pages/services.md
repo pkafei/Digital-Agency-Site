@@ -1,5 +1,5 @@
 ---
-title: "Prices"
+title: "Services"
 template: "page"
 ---
 <h1 class="f2 tc lh-title">Email Marketing</h1> 
