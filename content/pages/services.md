@@ -51,7 +51,7 @@ template: "page"
         </div>
       </div>
       <div class="pa3 pa4-ns dtc-ns v-mid">
-        <a href="#" class="no-underline f6 tc db w-100 pv3 bg-animate bg-blue hover-bg-dark-blue white br2">Quote Please!</a>
+        <a href="calendly.com/plburton" class="no-underline f6 tc db w-100 pv3 bg-animate bg-blue hover-bg-dark-blue white br2">Quote Please!</a>
       </div>
     </div>
   </article>
