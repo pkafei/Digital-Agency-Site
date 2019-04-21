@@ -30,9 +30,9 @@ module.exports = {
       email: '#',
       telegram: '#',
       twitter: 'pkafei',
-      github: '#',
+      github: 'pkafei',
       rss: '#',
-      vkontakte: '#'
+      vkontakte: '#',
     }
   }
 };
