@@ -24,6 +24,8 @@ Email is the lifeblood of a good marketing campaign. We are looking for a person
 **Nice to Have**
 + Launching social media campaigns with demonstrable ROI
 
+#### [APPLY NOW](https://portia862819.typeform.com/to/qT4YB5)
+
 ## Content Marketer
 
 #### The Role
@@ -40,4 +42,4 @@ You are the master of engaging long-form. You have a knack at breaking down hard
 + Avid blogger
 + Experience using Sketch and Figma
 
-
+#### [APPLY NOW](https://portia862819.typeform.com/to/qT4YB5)
