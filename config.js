@@ -18,13 +18,9 @@ module.exports = {
       path: '/pages/services'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Jobs',
+      path: '/pages/jobs'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
   ],
   author: {
     name: 'Portia Burton',
