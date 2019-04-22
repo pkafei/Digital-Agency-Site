@@ -1,5 +1,5 @@
 ---
-title: "VC Funding is for Losers"
+title: "Considering VC Funding? You have No Imagination."
 date: "2019-04-19"
 template: "post"
 slug: "/posts/vc-funding-for-losers/"
@@ -31,8 +31,19 @@ You are not Mark Zuckerberg and your new business is not the next Google. The on
 
 ## The Alternative? Bootstrapping!
 
-Instead of primping in front of a bunch of VC investors- you can find ways to organically grow your business by bootstrapping. Bootstrapping- also known as "sweat equity" in VC parlance is an excellent way to build your business.
+Instead of primping in front of a bunch of VC investors- you can find ways to organically grow your business by bootstrapping. Bootstrapping- also known as "sweat equity" in VC parlance is an excellent way to build your business. How do you get started bootstrapping?
 
-#### Sources:
-https://www.entrepreneur.com/article/294798
-https://blog.hubspot.com/marketing/best-email-marketing-services
+1. Dedicate nights and weekends to working on your project. Use a timer tracker as a way to keep yourself honest about the time that you are _really_ spending on your project. I personally use [toggl](https://toggl.com/), but honestly a kitchen timer will suffice. ![](https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1555962699/portia-burton-work-at-night_rmtbo8.jpg)
+
+2. Staying motivated can be hard! It is hard to build a business when from 9-5 you are surrounded by other wage earners. Join a group of budding entrepreneurs to help you stay focused! My personal favorite group is [Indie Hackers](https://www.indiehackers.com/)
+![](https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1555962699/portia-burton-entrepreneur-friends_umezqe.jpg)
+
+3. Focus on marketing from day one. Marketing is a great way to get invaluable feedback. Start running analytics on the blog posts you write about your project and figure out which post resonates the most with your audience.
+![](https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1555962699/portia-burton-try-online-marketing_n5coim.jpg)
+
+## Conclusion
+
+The focus of VC money makes starting a business look akin to joining a country club. You don't need to blessed by Andreessen Horowitz in order to start building your dream. 
+
+
+Bootstrapping, on the other hand, democratizes entrepreneurship. With Google Analytics, WordPress, and Stripe a person of average means has way more tools to build a business than even a wealthy person a generation ago. It was practically impossible to sell shoes, books, or meals without renting a storefront. It was also nearly impossible to get any meaningful insight on what drove customer behavior in 1980.
