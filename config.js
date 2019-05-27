@@ -2,8 +2,8 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by Portia Burton',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Cecil Digital Marketing Agency',
+  subtitle: 'Digtal Marketing that Works',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,9 +23,9 @@ module.exports = {
     },
   ],
   author: {
-    name: 'Portia Burton',
-    photo: '/portia.jpg',
-    bio: 'Ethical growth hacker who believes in the power of the pen.',
+    name: 'Cecil Digital Agency',
+    photo: 'cecil-digital-agency-logo.png',
+    bio: 'Digial Marketing that works.',
     contacts: {
       email: '#',
       telegram: '#',
