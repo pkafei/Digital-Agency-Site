@@ -10,7 +10,7 @@ template: "page"
 </style>
 <div class="dt mw6 center pt0 pb4 pv5-m pb4-ns">
   <div class="dtc v-btm">
-    <img src="https://louisedigitalagency.com/wp-content/uploads/2019/04/Optimized-louise-digital-agency-email-marketing-1024x683.jpg" alt="A bright blue sky" class="mw5 db" />
+    <img src="https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1555962699/portia-burton-try-online-marketing_n5coim.jpg" alt="A bright blue sky" class="mw5 db" />
   </div>
   <div class="dtc v-btm pl4">
     <h2 class="f3 lh-title underline">Email Marketing</h2> 

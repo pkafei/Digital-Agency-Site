@@ -10,7 +10,7 @@ tags:
 description: "Making your first sale can be a challenging feat."
 ---
 
-![](https://louisedigitalagency.com/wp-content/uploads/2019/04/louise-digital-agency-getting-your-first-customer-1-1024x682.jpg)
+![](https://res.cloudinary.com/blockchain-side-hustle/image/upload/v1552855479/beyond_hackers_best_website_builders_rizw7f.jpg)
 
 #### **The Struggle**
 
